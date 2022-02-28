@@ -276,3 +276,19 @@ Received Import Request.
 Start importing Assets/Clases/1_07_Fireworks.unity using Guid(4a8a317d97c454e8babda7b27bfe97eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65dd395cfd749b2ed828a3bba9bd4f8f') in 0.006145 seconds 
   Import took 0.018126 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3308.872509 seconds.
+  path: Assets/borrrame.unity
+  artifactKey: Guid(05cef359d5c8f4ed881435f029b82775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/borrrame.unity using Guid(05cef359d5c8f4ed881435f029b82775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4c936af3ed19c1739de977f9cee22b') in 0.004797 seconds 
+  Import took 0.017425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.240397 seconds.
+  path: Assets/Clases/1_07_Explosiones.unity
+  artifactKey: Guid(fee3c947e578e4c5b9986f82e84c9473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clases/1_07_Explosiones.unity using Guid(fee3c947e578e4c5b9986f82e84c9473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4001cf146e7bd10d7aa2542e37c73936') in 0.001637 seconds 
+  Import took 0.003802 seconds .
+
